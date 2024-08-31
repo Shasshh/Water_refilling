@@ -23,3 +23,31 @@ Browse the Simple Water Refilling Station Management System in a browser. i.e. h
 Admin Access Information:
 Username: admin
 Password: admin123
+
+
+The Water Refilling Management System was a minor academic project conducted from November 2022 to January 2023. The project's goal was to create a web-based tool that efficiently manages the refilling of water cans when they are empty. The system was designed to automate the tracking and scheduling of water refills, ensuring that users have a consistent supply of water without manual monitoring.
+
+The project utilized a tech stack comprising HTML and CSS for the frontend design, PHP for server-side scripting, MySQL for database management, and XAMPP as the local server environment.
+
+Challenges Faced
+
+1.Real-Time Monitoring
+
+2.User Interface Design
+
+3.Database Management
+
+4.System Integration
+
+5.Testing and Debugging 
+
+
+Bug Fixes
+
+1.Database Connection Issues
+
+2.Inaccurate Refill Triggering
+
+3.UI/UX Problems
+
+4.Performance Optimization
